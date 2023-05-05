@@ -1,6 +1,0 @@
-.venv
-.vscode
-*.swp
-__pycache__
-lambda.zip
-.DS_Store
