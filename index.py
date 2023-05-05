@@ -1,2 +1,2 @@
 def lambda_handler(event, context):
-    print("hello proton world")
+    print("hello world")
